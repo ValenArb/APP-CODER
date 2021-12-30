@@ -20,7 +20,7 @@
   - Clears ***ALL*** warnings from the selected member, if a reason is not provided it will use a set reason
 - /kick [member] <reason>
   - Kicks the selected member, if a reason is not provided it will use a set reason
-- /lock {status} <reason> **BROKEN**
+- /lock {status} <reason>
   - Locks the channel where is used, for it to activate use status **True** and to unlock it use status **False**, if a reason is not provided it will use a set reason
 - /report [member] <reason>
   - Command not visible for other users, it reports the selected user so moderators and helpers can get in action
@@ -28,7 +28,7 @@
   - Sets a slowmode in the channel, the delay could be of 0, 1, 5, 10, 20, 60 seconds
 - /unban [member] <reason>
   - Unbans the selected user, if a reason is not provided it will use a set reason
-- /unwarn [member] <reason> **BROKEN**
+- /unwarn [member] <reason> 
   - Deletes 1 warning from a user, if a reason is not provided it will use a set reason
 - /warn [member] <reason>
   - Warns a user, if a reason is not provided it will use a set reason
